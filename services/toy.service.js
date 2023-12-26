@@ -12,12 +12,35 @@ export const toyService = {
 
 const toys = utilService.readJsonFile('data/toy.json')
 
-function query(filterBy = { txt: '' }) {
-    const regex = new RegExp(filterBy.txt, 'i')
-    var toysToReturn = toys.filter(toy => regex.test(toy.vendor))
-    if (filterBy.maxPrice) {
-        toysToReturn = toysToReturn.filter(toy => toy.price <= filterBy.maxPrice)
+function query(filterBy = { name: '' }) {
+    const regex = new RegExp(filterBy.name, 'i')
+    var toysToReturn = toys.filter(toy => regex.test(toy.name))
+    if (filterBy.name) {
+        const regExp = new RegExp(filterBy.name, 'i')
+        toysToReturn = toysToReturn.filter(toy => regExp.test(toy.name))
     }
+    if (filterBy.labels) {
+        if (filterBy.labels === 'All') filterBy.labels = ''
+        const regExp = new RegExp(filterBy.labels, 'i')
+        toysToReturn = toysToReturn.filter(toy => regExp.test(toy.labels))
+    }
+    if (filterBy.inStock) {
+        const regExp = new RegExp(filterBy.inStock, 'i')
+        toysToReturn = toysToReturn.filter(toy => regExp.test(toy.inStock))
+    }
+    if (filterBy.price) {
+        toysToReturn = toysToReturn.filter(toy => toy.price <= filterBy.price)
+    }
+
+    // if (filterBy.sortBy === 'createdAt') {
+    //     toysToReturn.sort((b1, b2) => (b1.createdAt - b2.createdAt) * filterBy.sortDir)
+    // } else if (filterBy.sortBy === 'name') {
+    //     toysToReturn.sort(
+    //         (b1, b2) => b1.name.localeCompare(b2.name) * filterBy.sortDir
+    //     )
+    // } else {
+    //     toysToReturn.sort((b1, b2) => (b1.price - b2.price) * filterBy.sortDir)
+    // }
     return Promise.resolve(toysToReturn)
 }
 
@@ -45,10 +68,9 @@ function save(toy, loggedinUser) {
             toyToUpdate.owner._id !== loggedinUser._id) {
             return Promise.reject('Not your toy')
         }
-        toyToUpdate.vendor = toy.vendor
-        toyToUpdate.speed = toy.speed
         toyToUpdate.price = toy.price
         toy = toyToUpdate
+
     } else {
         toy._id = utilService.makeId()
         toy.owner = {

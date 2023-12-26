@@ -40,8 +40,14 @@ app.get('/nono', (req, res) => res.redirect('/'))
 // Toy LIST
 app.get('/api/toy', (req, res) => {
     const filterBy = {
-        txt: req.query.txt || '',
-        maxPrice: +req.query.maxPrice || 0,
+        name: req.query.name || '',
+        price: +req.query.price || 0,
+        labels: req.query.labels || '',
+        createdAt: req.query.createdAt || '',
+        inStock: req.query.inStock || '',
+        sortBy: req.query.sortBy || '',
+        sortDir: req.query.sortDir || '',
+
     }
     toyService.query(filterBy)
         .then((toys) => {
@@ -71,9 +77,11 @@ app.post('/api/toy', (req, res) => {
     const loggedinUser = userService.validateToken(req.cookies.loginToken)
     if (!loggedinUser) return res.status(401).send('Cannot add toy')
     const toy = {
-        vendor: req.body.vendor,
+        name: req.body.name,
         price: +req.body.price,
-        speed: +req.body.speed,
+        labels: req.body.labels,
+        createdAt: +req.body.createdAt,
+        inStock: req.body.inStock,
     }
     toyService.save(toy, loggedinUser)
         .then((savedToy) => {
@@ -92,9 +100,11 @@ app.put('/api/toy', (req, res) => {
     if (!loggedinUser) return res.status(401).send('Cannot update toy')
     const toy = {
         _id: req.body._id,
-        vendor: req.body.vendor,
-        speed: +req.body.speed,
+        name: req.body.name,
         price: +req.body.price,
+        labels: req.body.labels,
+        createdAt: req.body.createdAt,
+        inStock: req.body.inStock,
     }
     toyService.save(toy, loggedinUser)
         .then((savedToy) => {

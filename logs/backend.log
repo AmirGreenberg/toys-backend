@@ -63,3 +63,49 @@
 25.12.2023, 13:48:24 - INFO - Server listening on port http://127.0.0.1:3030/
 25.12.2023, 13:52:13 - INFO - Server listening on port http://127.0.0.1:3030/
 25.12.2023, 13:52:30 - INFO - Server listening on port http://127.0.0.1:3030/
+25.12.2023, 14:10:54 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 16:47:30 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 16:47:53 - INFO - Cannot remove toy, No user
+26.12.2023, 16:47:53 - INFO - loggedinUser toy delete: | null
+26.12.2023, 16:48:17 - INFO - loggedinUser toy delete: | {"_id":"kofTd","fullname":"a","score":10000}
+26.12.2023, 16:48:25 - INFO - loggedinUser toy delete: | {"_id":"kofTd","fullname":"a","score":10000}
+26.12.2023, 16:55:10 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 16:55:15 - INFO - loggedinUser toy delete: | {"_id":"kofTd","fullname":"a","score":10000}
+26.12.2023, 16:55:49 - INFO - loggedinUser toy delete: | null
+26.12.2023, 16:55:49 - INFO - Cannot remove toy, No user
+26.12.2023, 16:55:57 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 16:56:03 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 16:56:09 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 16:59:41 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 17:00:43 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 17:00:51 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 17:02:42 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 17:02:42 - INFO - Toy Aq9Zv removed
+26.12.2023, 17:05:12 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 17:05:21 - INFO - loggedinUser toy delete: | null
+26.12.2023, 17:05:21 - INFO - Cannot remove toy, No user
+26.12.2023, 17:05:38 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 17:06:13 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 17:06:13 - INFO - Toy Z8JdG2 removed
+26.12.2023, 17:06:17 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 17:06:17 - INFO - Toy WkGcN4 removed
+26.12.2023, 17:07:50 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 17:07:53 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 17:07:53 - INFO - Toy LWL1WJ removed
+26.12.2023, 17:09:48 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 17:15:13 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 17:15:13 - INFO - Toy Ui9gr removed
+26.12.2023, 17:15:57 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 17:16:01 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 17:16:01 - INFO - Toy rJLV4 removed
+26.12.2023, 17:18:03 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 17:18:03 - INFO - Toy jj639 removed
+26.12.2023, 17:21:47 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 17:21:51 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 17:21:55 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 17:21:55 - INFO - Toy u54d0 removed
+26.12.2023, 17:22:41 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 17:22:45 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 17:24:01 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 17:24:16 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
+26.12.2023, 17:24:16 - INFO - Toy WkGcN4 removed
