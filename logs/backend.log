@@ -109,3 +109,29 @@
 26.12.2023, 17:24:01 - INFO - Server listening on port http://127.0.0.1:3030/
 26.12.2023, 17:24:16 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":10000}
 26.12.2023, 17:24:16 - INFO - Toy WkGcN4 removed
+26.12.2023, 17:40:27 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 17:40:27 - INFO - Toy LWL1WJ removed
+26.12.2023, 17:40:58 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 17:40:58 - INFO - Toy illq3 removed
+26.12.2023, 18:40:45 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 18:42:04 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 18:42:18 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 18:45:13 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 18:46:10 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 18:48:06 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 18:48:24 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 18:58:42 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 19:06:52 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 19:07:26 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 19:09:23 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 19:10:01 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 19:13:39 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 19:13:58 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 19:15:38 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 19:15:44 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 19:15:44 - INFO - Toy rJLV4 removed
+26.12.2023, 19:16:01 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 19:16:01 - INFO - Toy Z8JdG2 removed
+26.12.2023, 19:17:13 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 19:19:10 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 19:19:18 - INFO - Server listening on port http://127.0.0.1:3030/

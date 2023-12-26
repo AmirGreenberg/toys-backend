@@ -12,18 +12,19 @@ export const toyService = {
 
 const toys = utilService.readJsonFile('data/toy.json')
 
-function query(filterBy = { name: '' }) {
-    const regex = new RegExp(filterBy.name, 'i')
-    var toysToReturn = toys.filter(toy => regex.test(toy.name))
+function query(filterBy, sort) {
+    if (!filterBy) return Promise.resolve(toys)
+
+    let toysToReturn = toys
+
     if (filterBy.name) {
         const regExp = new RegExp(filterBy.name, 'i')
         toysToReturn = toysToReturn.filter(toy => regExp.test(toy.name))
     }
-    if (filterBy.labels) {
-        if (filterBy.labels === 'All') filterBy.labels = ''
-        const regExp = new RegExp(filterBy.labels, 'i')
-        toysToReturn = toysToReturn.filter(toy => regExp.test(toy.labels))
+    if (filterBy.labels && filterBy.labels[0]) {
+        toysToReturn = toysToReturn.filter(toy => toy.labels.some(label => filterBy.labels.includes(label)))
     }
+
     if (filterBy.inStock) {
         const regExp = new RegExp(filterBy.inStock, 'i')
         toysToReturn = toysToReturn.filter(toy => regExp.test(toy.inStock))
@@ -31,6 +32,13 @@ function query(filterBy = { name: '' }) {
     if (filterBy.price) {
         toysToReturn = toysToReturn.filter(toy => toy.price <= filterBy.price)
     }
+
+    toysToReturn.sort((toy1, toy2) => {
+        const dir = JSON.parse(sort.asc) ? 1 : -1
+        if (sort.by === 'price') return (toy1.price - toy2.price) * dir
+        if (sort.by === 'name') return toy1.name.localeCompare(toy2.name) * dir
+    })
+
 
     // if (filterBy.sortBy === 'createdAt') {
     //     toysToReturn.sort((b1, b2) => (b1.createdAt - b2.createdAt) * filterBy.sortDir)

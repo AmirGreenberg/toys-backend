@@ -39,23 +39,16 @@ app.get('/nono', (req, res) => res.redirect('/'))
 
 // Toy LIST
 app.get('/api/toy', (req, res) => {
-    const filterBy = {
-        name: req.query.name || '',
-        price: +req.query.price || 0,
-        labels: req.query.labels || '',
-        createdAt: req.query.createdAt || '',
-        inStock: req.query.inStock || '',
-        sortBy: req.query.sortBy || '',
-        sortDir: req.query.sortDir || '',
+    const { filterBy = {}, sort = {} } = req.query.params
+    // console.log("req.query.params:", req.query.params)
 
-    }
-    toyService.query(filterBy)
-        .then((toys) => {
+    toyService.query(filterBy, sort)
+        .then(toys => {
             res.send(toys)
         })
-        .catch((err) => {
-            loggerService.error('Cannot get toys', err)
-            res.status(400).send('Cannot get toys')
+        .catch(err => {
+            console.log('Had issues getting toys', err);
+            res.status(400).send({ msg: 'Had issues getting toys' })
         })
 })
 
