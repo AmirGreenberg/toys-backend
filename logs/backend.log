@@ -135,3 +135,33 @@
 26.12.2023, 19:17:13 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":9933}
 26.12.2023, 19:19:10 - INFO - Server listening on port http://127.0.0.1:3030/
 26.12.2023, 19:19:18 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 19:50:42 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 19:51:17 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 20:37:24 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 20:37:29 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 20:41:14 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 20:44:14 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 20:44:28 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 20:49:06 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 20:49:14 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 20:49:21 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 20:49:21 - INFO - Toy kq4vT removed
+26.12.2023, 20:51:04 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 20:52:46 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 20:53:11 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 20:53:19 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 20:54:23 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 20:55:07 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 20:55:19 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 20:55:24 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 20:55:24 - INFO - Toy jj639 removed
+26.12.2023, 21:02:40 - INFO - Server listening on port http://127.0.0.1:3030/
+26.12.2023, 21:02:44 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 21:02:50 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 21:02:50 - INFO - Toy DaCFW removed
+26.12.2023, 21:02:52 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 21:02:52 - INFO - Toy 01Mk4 removed
+26.12.2023, 21:06:38 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 21:06:38 - INFO - Toy Aa1Wz removed
+26.12.2023, 21:07:37 - INFO - loggedinUser toy delete: | {"_id":"IPv47","fullname":"a","score":9933}
+26.12.2023, 21:07:37 - INFO - Toy Z3nKN removed

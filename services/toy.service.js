@@ -77,6 +77,9 @@ function save(toy, loggedinUser) {
             return Promise.reject('Not your toy')
         }
         toyToUpdate.price = toy.price
+        toyToUpdate.name = toy.name
+        toyToUpdate.labels = toy.labels
+        toyToUpdate.inStock = toy.inStock
         toy = toyToUpdate
 
     } else {
