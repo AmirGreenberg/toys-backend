@@ -2,11 +2,7 @@
     {
         "name": "Bratz",
         "price": 231,
-        "labels": [
-            "Baby",
-            "Doll",
-            "Puzzle"
-        ],
+        "labels": ["Baby", "Doll", "Puzzle"],
         "createdAt": 1703617612465,
         "inStock": false,
         "_id": "1Ah0Z",
@@ -19,11 +15,7 @@
     {
         "name": "Car ferrari",
         "price": 168,
-        "labels": [
-            "Art",
-            "Baby",
-            "Doll"
-        ],
+        "labels": ["Art", "Baby", "Doll"],
         "createdAt": 1703617604324,
         "inStock": true,
         "_id": "JbOEy",
@@ -36,11 +28,7 @@
     {
         "name": "Helicopter",
         "price": 122,
-        "labels": [
-            "Art",
-            "Baby",
-            "Doll"
-        ],
+        "labels": ["Art", "Baby", "Doll"],
         "createdAt": 1703617602985,
         "inStock": true,
         "_id": "XKYAh",
@@ -53,11 +41,7 @@
     {
         "name": "Helicopter",
         "price": 89,
-        "labels": [
-            "On wheels",
-            "Box game",
-            "Art"
-        ],
+        "labels": ["On wheels", "Box game", "Art"],
         "createdAt": 1703617605506,
         "inStock": true,
         "_id": "4vYtM",
@@ -70,11 +54,7 @@
     {
         "name": "Scooter",
         "price": 474,
-        "labels": [
-            "Box game",
-            "Art",
-            "Baby"
-        ],
+        "labels": ["Box game", "Art", "Baby"],
         "createdAt": 1703617611996,
         "inStock": true,
         "_id": "OKnly",
@@ -85,13 +65,9 @@
         }
     },
     {
-        "name": "Scooterrrrrr",
+        "name": "Scooter",
         "price": 1,
-        "labels": [
-            "Box game",
-            "Art",
-            "Baby"
-        ],
+        "labels": ["Box game", "Art", "Baby"],
         "createdAt": 1703601334636,
         "inStock": false,
         "_id": "62QWw",
@@ -104,11 +80,7 @@
     {
         "name": "Shes-Besh",
         "price": 237,
-        "labels": [
-            "Box game",
-            "Art",
-            "Baby"
-        ],
+        "labels": ["Box game", "Art", "Baby"],
         "createdAt": 1703601336886,
         "inStock": false,
         "_id": "Ym6Cv",
@@ -121,11 +93,7 @@
     {
         "name": "Shes-Besh",
         "price": 447,
-        "labels": [
-            "Art",
-            "Baby",
-            "Doll"
-        ],
+        "labels": ["Art", "Baby", "Doll"],
         "createdAt": 1703617603482,
         "inStock": false,
         "_id": "8AFlM",
@@ -138,11 +106,7 @@
     {
         "name": "Shes-Besh",
         "price": 337,
-        "labels": [
-            "Box game",
-            "Art",
-            "Baby"
-        ],
+        "labels": ["Box game", "Art", "Baby"],
         "createdAt": 1703617603849,
         "inStock": false,
         "_id": "5Sn2j",
@@ -155,11 +119,7 @@
     {
         "name": "Shes-Besh",
         "price": 287,
-        "labels": [
-            "Baby",
-            "Doll",
-            "Puzzle"
-        ],
+        "labels": ["Baby", "Doll", "Puzzle"],
         "createdAt": 1703617604651,
         "inStock": false,
         "_id": "YgMTg",
@@ -172,11 +132,7 @@
     {
         "name": "Taki",
         "price": 100,
-        "labels": [
-            "Puzzle",
-            "Outdoor",
-            "Battery Powered"
-        ],
+        "labels": ["Puzzle", "Outdoor", "Battery Powered"],
         "createdAt": 1703601335098,
         "inStock": false,
         "_id": "Ui9gr",
@@ -189,11 +145,7 @@
     {
         "name": "Taki",
         "price": 0,
-        "labels": [
-            "Baby",
-            "Doll",
-            "Puzzle"
-        ],
+        "labels": ["Baby", "Doll", "Puzzle"],
         "createdAt": 1703601337420,
         "inStock": true,
         "_id": "u54d0",
@@ -206,11 +158,7 @@
     {
         "name": "Taki",
         "price": 162,
-        "labels": [
-            "On wheels",
-            "Box game",
-            "Art"
-        ],
+        "labels": ["On wheels", "Box game", "Art"],
         "createdAt": 1703617605217,
         "inStock": false,
         "_id": "amrUj",
