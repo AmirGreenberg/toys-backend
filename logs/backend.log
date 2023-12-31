@@ -219,3 +219,499 @@
 28.12.2023, 20:48:53 - INFO - user loggedin: | {"_id":"IPv47","fullname":"a","score":9933}
 28.12.2023, 20:54:17 - INFO - Server listening on port http://127.0.0.1:3030/
 30.12.2023, 23:03:26 - INFO - Server listening on port http://127.0.0.1:3030/
+30.12.2023, 23:24:00 - INFO - Server listening on port http://127.0.0.1:3030/
+31.12.2023, 0:51:50 - INFO - server.js loaded... 
+31.12.2023, 0:51:50 - INFO - Server is running on port: 3030 
+31.12.2023, 0:52:07 - INFO - server.js loaded... 
+31.12.2023, 0:52:07 - INFO - Server is running on port: 3030 
+31.12.2023, 0:52:37 - INFO - Req was made | / 
+31.12.2023, 0:52:37 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:53:10 - DEBUG - auth.service - login with username: a 
+31.12.2023, 0:53:10 - ERROR - Failed to Login Error: Invalid username or password 
+31.12.2023, 0:53:14 - DEBUG - auth.service - login with username: a 
+31.12.2023, 0:53:14 - ERROR - Failed to Login Error: Invalid username or password 
+31.12.2023, 0:53:15 - DEBUG - auth.service - signup with username: a, fullname: a 
+31.12.2023, 0:53:15 - DEBUG - auth.route - new account created: {"username":"a","password":"$2b$10$WixOwsDl5RfPdJ0e6YcO3efyNv/clJtNUtA3YkcRX57j3VAUMjfBi","fullname":"a","score":0,"_id":"65909f5bd531902b00b2072e"} 
+31.12.2023, 0:53:15 - DEBUG - auth.service - login with username: a 
+31.12.2023, 0:53:19 - INFO - Req was made | / 
+31.12.2023, 0:53:19 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:54:02 - INFO - server.js loaded... 
+31.12.2023, 0:54:02 - INFO - Server is running on port: 3030 
+31.12.2023, 0:54:08 - INFO - Req was made | / 
+31.12.2023, 0:54:08 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:55:10 - INFO - server.js loaded... 
+31.12.2023, 0:55:10 - INFO - Server is running on port: 3030 
+31.12.2023, 0:55:16 - INFO - Req was made | / 
+31.12.2023, 0:55:16 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:55:16 - ERROR - cannot find toys | MongoServerError: $in needs an array 
+31.12.2023, 0:55:16 - ERROR - Failed to get toys | MongoServerError: $in needs an array 
+31.12.2023, 0:55:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:55:28 - INFO - Req was made | / 
+31.12.2023, 0:55:28 - ERROR - cannot find toys | MongoServerError: $in needs an array 
+31.12.2023, 0:55:28 - ERROR - Failed to get toys | MongoServerError: $in needs an array 
+31.12.2023, 0:55:30 - INFO - Req was made | / 
+31.12.2023, 0:55:30 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:55:30 - ERROR - cannot find toys | MongoServerError: $in needs an array 
+31.12.2023, 0:55:30 - ERROR - Failed to get toys | MongoServerError: $in needs an array 
+31.12.2023, 0:55:52 - INFO - server.js loaded... 
+31.12.2023, 0:55:52 - INFO - Server is running on port: 3030 
+31.12.2023, 0:55:54 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:55:54 - INFO - Req was made | / 
+31.12.2023, 0:56:58 - INFO - server.js loaded... 
+31.12.2023, 0:56:59 - INFO - Server is running on port: 3030 
+31.12.2023, 0:57:01 - INFO - Req was made | / 
+31.12.2023, 0:57:01 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:57:01 - ERROR - cannot find toys | ReferenceError: sortCriteria is not defined 
+31.12.2023, 0:57:01 - ERROR - Failed to get toys | ReferenceError: sortCriteria is not defined 
+31.12.2023, 0:57:27 - INFO - server.js loaded... 
+31.12.2023, 0:57:27 - INFO - Server is running on port: 3030 
+31.12.2023, 0:57:28 - INFO - Req was made | / 
+31.12.2023, 0:57:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:57:29 - INFO - Req was made | / 
+31.12.2023, 0:57:29 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:57:47 - INFO - server.js loaded... 
+31.12.2023, 0:57:47 - INFO - Server is running on port: 3030 
+31.12.2023, 0:57:48 - INFO - Req was made | / 
+31.12.2023, 0:57:48 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:57:54 - INFO - server.js loaded... 
+31.12.2023, 0:57:54 - INFO - Server is running on port: 3030 
+31.12.2023, 0:57:55 - INFO - Req was made | / 
+31.12.2023, 0:57:55 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 0:58:04 - INFO - server.js loaded... 
+31.12.2023, 0:58:04 - INFO - Server is running on port: 3030 
+31.12.2023, 0:58:05 - INFO - Req was made | / 
+31.12.2023, 0:58:05 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:00:45 - INFO - server.js loaded... 
+31.12.2023, 1:00:45 - INFO - Server is running on port: 3030 
+31.12.2023, 1:00:48 - INFO - Req was made | / 
+31.12.2023, 1:00:48 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:00:48 - ERROR - cannot find toys | MongoServerError: $in needs an array 
+31.12.2023, 1:00:48 - ERROR - Failed to get toys | MongoServerError: $in needs an array 
+31.12.2023, 1:01:05 - INFO - server.js loaded... 
+31.12.2023, 1:01:05 - INFO - Server is running on port: 3030 
+31.12.2023, 1:01:07 - INFO - Req was made | / 
+31.12.2023, 1:01:07 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:01:22 - INFO - server.js loaded... 
+31.12.2023, 1:01:22 - INFO - Server is running on port: 3030 
+31.12.2023, 1:01:23 - INFO - Req was made | / 
+31.12.2023, 1:01:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:01:56 - INFO - server.js loaded... 
+31.12.2023, 1:01:56 - INFO - Server is running on port: 3030 
+31.12.2023, 1:01:57 - INFO - Req was made | / 
+31.12.2023, 1:01:57 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:02:01 - INFO - server.js loaded... 
+31.12.2023, 1:02:01 - INFO - Server is running on port: 3030 
+31.12.2023, 1:02:01 - INFO - Req was made | / 
+31.12.2023, 1:02:01 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:02:10 - INFO - Req was made | / 
+31.12.2023, 1:02:10 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:02:11 - INFO - Req was made | / 
+31.12.2023, 1:02:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:02:16 - INFO - Req was made | / 
+31.12.2023, 1:02:16 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:02:19 - INFO - Req was made | / 
+31.12.2023, 1:02:19 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:02:21 - INFO - Req was made | / 
+31.12.2023, 1:02:21 - DEBUG - Getting Toys | {"name":"br","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:02:24 - INFO - Req was made | / 
+31.12.2023, 1:02:24 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:02:28 - INFO - Req was made | / 
+31.12.2023, 1:02:28 - DEBUG - Getting Toys | {"name":"","price":"150","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:02:43 - INFO - Req was made | / 
+31.12.2023, 1:02:43 - DEBUG - Getting Toys | {"name":"","price":"15","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:02:45 - DEBUG - Getting Toys | {"name":"","price":"1","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:02:45 - INFO - Req was made | / 
+31.12.2023, 1:02:45 - INFO - Req was made | / 
+31.12.2023, 1:02:45 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:04:11 - INFO - Req was made | / 
+31.12.2023, 1:04:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":["On wheels"],"createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:04:19 - INFO - Req was made | / 
+31.12.2023, 1:04:19 - DEBUG - Getting Toys | {"name":"","price":"","labels":["On wheels","Box game"],"createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:04:38 - INFO - Req was made | / 
+31.12.2023, 1:04:38 - DEBUG - Getting Toys | {"name":"","price":"1","labels":["On wheels","Box game"],"createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:04:41 - DEBUG - Getting Toys | {"name":"","price":"1500","labels":["On wheels","Box game"],"createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:04:41 - INFO - Req was made | / 
+31.12.2023, 1:04:42 - INFO - Req was made | / 
+31.12.2023, 1:04:42 - DEBUG - Getting Toys | {"name":"","price":"15000","labels":["On wheels","Box game"],"createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:04:44 - INFO - Req was made | / 
+31.12.2023, 1:04:44 - DEBUG - Getting Toys | {"name":"","price":"","labels":["On wheels","Box game"],"createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:04:46 - INFO - Req was made | / 
+31.12.2023, 1:04:46 - DEBUG - Getting Toys | {"name":"","price":"-10","labels":["On wheels","Box game"],"createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:04:48 - INFO - Req was made | / 
+31.12.2023, 1:04:48 - DEBUG - Getting Toys | {"name":"","price":"-1","labels":["On wheels","Box game"],"createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:04:49 - INFO - Req was made | / 
+31.12.2023, 1:04:49 - DEBUG - Getting Toys | {"name":"","price":"","labels":["On wheels","Box game"],"createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:05:24 - INFO - server.js loaded... 
+31.12.2023, 1:05:24 - INFO - Server is running on port: 3030 
+31.12.2023, 1:05:25 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:05:25 - INFO - Req was made | / 
+31.12.2023, 1:05:29 - INFO - Req was made | / 
+31.12.2023, 1:05:29 - DEBUG - Getting Toys | {"name":"","price":"10","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:05:30 - INFO - Req was made | / 
+31.12.2023, 1:05:30 - DEBUG - Getting Toys | {"name":"","price":"100","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:05:31 - INFO - Req was made | / 
+31.12.2023, 1:05:31 - DEBUG - Getting Toys | {"name":"","price":"1000","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:05:32 - DEBUG - Getting Toys | {"name":"","price":"100","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:05:32 - INFO - Req was made | / 
+31.12.2023, 1:05:33 - INFO - Req was made | / 
+31.12.2023, 1:05:33 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:06:31 - INFO - server.js loaded... 
+31.12.2023, 1:06:31 - INFO - Server is running on port: 3030 
+31.12.2023, 1:06:34 - INFO - Req was made | / 
+31.12.2023, 1:06:34 - DEBUG - Getting Toys | {"name":"b","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:06:39 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:06:39 - INFO - Req was made | / 
+31.12.2023, 1:06:42 - INFO - Req was made | / 
+31.12.2023, 1:06:42 - DEBUG - Getting Toys | {"name":"","price":"1","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:08:16 - INFO - server.js loaded... 
+31.12.2023, 1:08:16 - INFO - Server is running on port: 3030 
+31.12.2023, 1:08:18 - INFO - Req was made | / 
+31.12.2023, 1:08:18 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:08:21 - INFO - Req was made | / 
+31.12.2023, 1:08:21 - DEBUG - Getting Toys | {"name":"","price":"100","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:08:29 - INFO - Req was made | / 
+31.12.2023, 1:08:29 - DEBUG - Getting Toys | {"name":"","price":"10","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:08:30 - INFO - Req was made | / 
+31.12.2023, 1:08:30 - DEBUG - Getting Toys | {"name":"","price":"1","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:08:31 - INFO - Req was made | / 
+31.12.2023, 1:08:31 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:08:32 - INFO - Req was made | / 
+31.12.2023, 1:08:32 - DEBUG - Getting Toys | {"name":"","price":"1","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:08:33 - INFO - Req was made | / 
+31.12.2023, 1:08:33 - DEBUG - Getting Toys | {"name":"","price":"10","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:08:34 - INFO - Req was made | / 
+31.12.2023, 1:08:34 - DEBUG - Getting Toys | {"name":"","price":"100","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:08:34 - INFO - Req was made | / 
+31.12.2023, 1:08:34 - DEBUG - Getting Toys | {"name":"","price":"1000","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:08:35 - INFO - Req was made | / 
+31.12.2023, 1:08:35 - DEBUG - Getting Toys | {"name":"","price":"10000","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:08:37 - INFO - Req was made | / 
+31.12.2023, 1:08:37 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:09:03 - INFO - Req was made | / 
+31.12.2023, 1:09:03 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:09:05 - INFO - Req was made | / 
+31.12.2023, 1:09:05 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:10:01 - INFO - server.js loaded... 
+31.12.2023, 1:10:01 - INFO - Server is running on port: 3030 
+31.12.2023, 1:10:03 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:10:03 - INFO - Req was made | / 
+31.12.2023, 1:10:06 - INFO - Req was made | / 
+31.12.2023, 1:10:06 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:10:16 - INFO - Req was made | / 
+31.12.2023, 1:10:16 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:10:21 - INFO - Req was made | / 
+31.12.2023, 1:10:21 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:10:38 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:10:38 - INFO - Req was made | / 
+31.12.2023, 1:11:39 - INFO - server.js loaded... 
+31.12.2023, 1:11:39 - INFO - Server is running on port: 3030 
+31.12.2023, 1:11:42 - INFO - Req was made | / 
+31.12.2023, 1:11:42 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:11:48 - INFO - Req was made | / 
+31.12.2023, 1:11:48 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:11:52 - INFO - Req was made | / 
+31.12.2023, 1:11:52 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:12:29 - INFO - Req was made | / 
+31.12.2023, 1:12:29 - DEBUG - Getting Toys | {"name":"","price":"100","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:12:38 - INFO - server.js loaded... 
+31.12.2023, 1:12:38 - INFO - Server is running on port: 3030 
+31.12.2023, 1:12:40 - INFO - Req was made | / 
+31.12.2023, 1:12:40 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:12:46 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:12:46 - INFO - Req was made | / 
+31.12.2023, 1:12:49 - INFO - Req was made | / 
+31.12.2023, 1:12:49 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:12:51 - INFO - Req was made | / 
+31.12.2023, 1:12:51 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:13:52 - INFO - Req was made | / 
+31.12.2023, 1:13:52 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:13:54 - INFO - Req was made | / 
+31.12.2023, 1:13:54 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:13:55 - INFO - Req was made | / 
+31.12.2023, 1:13:55 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"true"} 
+31.12.2023, 1:14:01 - INFO - Req was made | / 
+31.12.2023, 1:14:01 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:14:02 - INFO - Req was made | / 
+31.12.2023, 1:14:02 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:14:04 - INFO - Req was made | / 
+31.12.2023, 1:14:04 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"false"} 
+31.12.2023, 1:14:34 - INFO - server.js loaded... 
+31.12.2023, 1:14:34 - INFO - Server is running on port: 3030 
+31.12.2023, 1:14:36 - INFO - Req was made | / 
+31.12.2023, 1:14:36 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:14:39 - INFO - Req was made | / 
+31.12.2023, 1:14:39 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:15:05 - INFO - server.js loaded... 
+31.12.2023, 1:15:05 - INFO - Server is running on port: 3030 
+31.12.2023, 1:15:07 - INFO - Req was made | / 
+31.12.2023, 1:15:07 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:15:22 - INFO - server.js loaded... 
+31.12.2023, 1:15:22 - INFO - Server is running on port: 3030 
+31.12.2023, 1:15:23 - INFO - Req was made | / 
+31.12.2023, 1:15:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:15:28 - INFO - Req was made | / 
+31.12.2023, 1:15:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:16:00 - INFO - server.js loaded... 
+31.12.2023, 1:16:00 - INFO - Server is running on port: 3030 
+31.12.2023, 1:16:01 - INFO - Req was made | / 
+31.12.2023, 1:16:01 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:16:02 - INFO - Req was made | / 
+31.12.2023, 1:16:02 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:16:08 - INFO - server.js loaded... 
+31.12.2023, 1:16:08 - INFO - Server is running on port: 3030 
+31.12.2023, 1:16:09 - INFO - Req was made | / 
+31.12.2023, 1:16:09 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:16:10 - INFO - Req was made | / 
+31.12.2023, 1:16:10 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:16:16 - INFO - server.js loaded... 
+31.12.2023, 1:16:16 - INFO - Server is running on port: 3030 
+31.12.2023, 1:16:17 - INFO - Req was made | / 
+31.12.2023, 1:16:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:17:35 - INFO - server.js loaded... 
+31.12.2023, 1:17:35 - INFO - Server is running on port: 3030 
+31.12.2023, 1:17:37 - INFO - Req was made | / 
+31.12.2023, 1:17:37 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:17:41 - INFO - Req was made | / 
+31.12.2023, 1:17:41 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:17:48 - INFO - Req was made | / 
+31.12.2023, 1:17:48 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:18:30 - INFO - Req was made | / 
+31.12.2023, 1:18:30 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:20:08 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:20:08 - INFO - Req was made | / 
+31.12.2023, 1:20:26 - INFO - Server is running on port: 3030 
+31.12.2023, 1:20:26 - INFO - server.js loaded... 
+31.12.2023, 1:20:28 - INFO - Req was made | / 
+31.12.2023, 1:20:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:20:35 - INFO - Req was made | / 
+31.12.2023, 1:20:35 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:20:41 - INFO - Req was made | / 
+31.12.2023, 1:20:41 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:21:16 - INFO - Server is running on port: 3030 
+31.12.2023, 1:21:16 - INFO - server.js loaded... 
+31.12.2023, 1:21:19 - INFO - Req was made | / 
+31.12.2023, 1:21:19 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:21:27 - INFO - Req was made | / 
+31.12.2023, 1:21:27 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:21:37 - INFO - Req was made | / 
+31.12.2023, 1:21:37 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:21:44 - INFO - Req was made | / 
+31.12.2023, 1:21:44 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:22:08 - INFO - Req was made | / 
+31.12.2023, 1:22:08 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:22:09 - INFO - Req was made | / 
+31.12.2023, 1:22:09 - DEBUG - Getting Toys | {"name":"b","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:22:15 - INFO - Req was made | / 
+31.12.2023, 1:22:15 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:22:24 - INFO - Req was made | / 
+31.12.2023, 1:22:24 - DEBUG - Getting Toys | {"name":"ba","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:22:30 - INFO - Req was made | / 
+31.12.2023, 1:22:30 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:22:33 - INFO - Req was made | / 
+31.12.2023, 1:22:33 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:23:07 - INFO - server.js loaded... 
+31.12.2023, 1:23:07 - INFO - Server is running on port: 3030 
+31.12.2023, 1:23:10 - INFO - server.js loaded... 
+31.12.2023, 1:23:10 - INFO - Server is running on port: 3030 
+31.12.2023, 1:23:16 - INFO - server.js loaded... 
+31.12.2023, 1:23:16 - INFO - Server is running on port: 3030 
+31.12.2023, 1:23:22 - INFO - Req was made | / 
+31.12.2023, 1:23:22 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:23:28 - INFO - Req was made | / 
+31.12.2023, 1:23:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:24:00 - INFO - server.js loaded... 
+31.12.2023, 1:24:00 - INFO - Server is running on port: 3030 
+31.12.2023, 1:24:02 - INFO - Req was made | / 
+31.12.2023, 1:24:02 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:24:04 - INFO - Req was made | / 
+31.12.2023, 1:24:04 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:24:05 - INFO - Req was made | / 
+31.12.2023, 1:24:05 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:24:07 - INFO - Req was made | / 
+31.12.2023, 1:24:07 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:24:08 - INFO - Req was made | / 
+31.12.2023, 1:24:08 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:24:17 - INFO - Req was made | / 
+31.12.2023, 1:24:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:24:21 - INFO - Req was made | / 
+31.12.2023, 1:24:21 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:24:55 - INFO - server.js loaded... 
+31.12.2023, 1:24:55 - INFO - Server is running on port: 3030 
+31.12.2023, 1:24:59 - INFO - server.js loaded... 
+31.12.2023, 1:24:59 - INFO - Server is running on port: 3030 
+31.12.2023, 1:25:01 - INFO - Req was made | / 
+31.12.2023, 1:25:01 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:25:22 - INFO - server.js loaded... 
+31.12.2023, 1:25:22 - INFO - Server is running on port: 3030 
+31.12.2023, 1:25:23 - INFO - Req was made | / 
+31.12.2023, 1:25:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:25:28 - INFO - Req was made | / 
+31.12.2023, 1:25:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:25:33 - INFO - Req was made | / 
+31.12.2023, 1:25:33 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:25:41 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:25:41 - INFO - Req was made | / 
+31.12.2023, 1:25:47 - INFO - Req was made | / 
+31.12.2023, 1:25:47 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:25:50 - INFO - Req was made | / 
+31.12.2023, 1:25:50 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:25:55 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:25:55 - INFO - Req was made | / 
+31.12.2023, 1:25:57 - INFO - Req was made | / 
+31.12.2023, 1:25:57 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:25:58 - INFO - Req was made | / 
+31.12.2023, 1:25:58 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:26:55 - INFO - server.js loaded... 
+31.12.2023, 1:26:55 - INFO - Server is running on port: 3030 
+31.12.2023, 1:26:58 - INFO - Req was made | / 
+31.12.2023, 1:26:58 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:27:02 - INFO - Req was made | / 
+31.12.2023, 1:27:02 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:27:06 - INFO - Req was made | / 
+31.12.2023, 1:27:06 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:30:06 - INFO - server.js loaded... 
+31.12.2023, 1:30:06 - INFO - Server is running on port: 3030 
+31.12.2023, 1:30:09 - INFO - Req was made | / 
+31.12.2023, 1:30:09 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:30:20 - INFO - Req was made | / 
+31.12.2023, 1:30:20 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:30:30 - INFO - Req was made | / 
+31.12.2023, 1:30:30 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:30:34 - INFO - Req was made | / 
+31.12.2023, 1:30:34 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:31:59 - INFO - Req was made | / 
+31.12.2023, 1:31:59 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:33:13 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:33:13 - INFO - Req was made | / 
+31.12.2023, 1:34:56 - INFO - server.js loaded... 
+31.12.2023, 1:34:56 - INFO - Server is running on port: 3030 
+31.12.2023, 1:35:00 - INFO - Req was made | / 
+31.12.2023, 1:35:00 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:35:05 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:35:05 - INFO - Req was made | / 
+31.12.2023, 1:41:21 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:41:21 - INFO - Req was made | / 
+31.12.2023, 1:41:25 - INFO - Req was made | / 
+31.12.2023, 1:41:25 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:41:30 - INFO - Req was made | / 
+31.12.2023, 1:41:30 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:41:44 - INFO - server.js loaded... 
+31.12.2023, 1:41:44 - INFO - Server is running on port: 3030 
+31.12.2023, 1:41:48 - INFO - Req was made | / 
+31.12.2023, 1:41:48 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:41:52 - INFO - Req was made | / 
+31.12.2023, 1:41:52 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:42:19 - INFO - Req was made | / 
+31.12.2023, 1:42:19 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:42:22 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:42:22 - INFO - Req was made | / 
+31.12.2023, 1:42:33 - INFO - Req was made | / 
+31.12.2023, 1:42:33 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:42:40 - INFO - Req was made | / 
+31.12.2023, 1:42:40 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:42:49 - INFO - Req was made | / 
+31.12.2023, 1:42:49 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:44:20 - INFO - server.js loaded... 
+31.12.2023, 1:44:20 - INFO - Server is running on port: 3030 
+31.12.2023, 1:44:21 - INFO - Req was made | / 
+31.12.2023, 1:44:21 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:44:22 - INFO - Req was made | / 
+31.12.2023, 1:44:22 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:44:26 - INFO - Req was made | / 
+31.12.2023, 1:44:26 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:44:32 - INFO - Req was made | / 
+31.12.2023, 1:44:32 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:47:08 - INFO - server.js loaded... 
+31.12.2023, 1:47:08 - INFO - Server is running on port: 3030 
+31.12.2023, 1:47:39 - INFO - server.js loaded... 
+31.12.2023, 1:47:39 - INFO - Server is running on port: 3030 
+31.12.2023, 1:47:39 - INFO - Req was made | / 
+31.12.2023, 1:47:39 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:47:50 - INFO - Req was made | / 
+31.12.2023, 1:47:50 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:47:56 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:47:56 - INFO - Req was made | / 
+31.12.2023, 1:49:56 - INFO - server.js loaded... 
+31.12.2023, 1:49:56 - INFO - Server is running on port: 3030 
+31.12.2023, 1:49:57 - INFO - Req was made | / 
+31.12.2023, 1:49:57 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:50:01 - INFO - Req was made | / 
+31.12.2023, 1:50:01 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:50:05 - INFO - Req was made | / 
+31.12.2023, 1:50:05 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:52:32 - INFO - Req was made | / 
+31.12.2023, 1:52:32 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:52:43 - INFO - Req was made | / 
+31.12.2023, 1:52:43 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:52:45 - INFO - Req was made | / 
+31.12.2023, 1:52:45 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:52:49 - INFO - Req was made | / 
+31.12.2023, 1:52:49 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:53:16 - INFO - server.js loaded... 
+31.12.2023, 1:53:16 - INFO - Server is running on port: 3030 
+31.12.2023, 1:53:18 - INFO - Req was made | / 
+31.12.2023, 1:53:18 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:53:21 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:53:21 - INFO - Req was made | / 
+31.12.2023, 1:53:28 - INFO - Req was made | / 
+31.12.2023, 1:53:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:53:42 - INFO - server.js loaded... 
+31.12.2023, 1:53:43 - INFO - Server is running on port: 3030 
+31.12.2023, 1:53:45 - INFO - Req was made | / 
+31.12.2023, 1:53:45 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:53:47 - INFO - Req was made | / 
+31.12.2023, 1:53:47 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:53:53 - INFO - Req was made | / 
+31.12.2023, 1:53:53 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:53:58 - INFO - Req was made | / 
+31.12.2023, 1:53:58 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:53:59 - INFO - Req was made | / 
+31.12.2023, 1:53:59 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:56:09 - INFO - server.js loaded... 
+31.12.2023, 1:56:09 - INFO - Server is running on port: 3030 
+31.12.2023, 1:56:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 1:56:12 - INFO - Req was made | / 
+31.12.2023, 1:56:18 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:56:18 - INFO - Req was made | / 
+31.12.2023, 1:56:23 - INFO - Req was made | / 
+31.12.2023, 1:56:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"true"} | {"by":"name","asc":"true"} 
+31.12.2023, 1:56:33 - INFO - Req was made | / 
+31.12.2023, 1:56:33 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 2:01:00 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 2:01:00 - INFO - Req was made | / 
+31.12.2023, 2:01:05 - INFO - Req was made | / 
+31.12.2023, 2:01:05 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"false"} 
+31.12.2023, 2:01:06 - INFO - Req was made | / 
+31.12.2023, 2:01:06 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"true"} 
+31.12.2023, 2:01:06 - INFO - Req was made | / 
+31.12.2023, 2:01:06 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":"false"} | {"by":"name","asc":"false"} 
+31.12.2023, 2:01:22 - INFO - server.js loaded... 
+31.12.2023, 2:01:22 - INFO - Server is running on port: 3030 
+31.12.2023, 2:02:35 - INFO - server.js loaded... 
+31.12.2023, 2:02:35 - INFO - Server is running on port: 3030 
+31.12.2023, 2:02:40 - INFO - Req was made | / 
+31.12.2023, 2:02:40 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 2:02:42 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"true"} 
+31.12.2023, 2:02:42 - INFO - Req was made | / 
+31.12.2023, 2:02:44 - INFO - Req was made | / 
+31.12.2023, 2:02:44 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"false"} 
+31.12.2023, 2:02:46 - INFO - Req was made | / 
+31.12.2023, 2:02:46 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"false"} 
+31.12.2023, 2:02:49 - INFO - Req was made | / 
+31.12.2023, 2:02:49 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 2:02:50 - INFO - Req was made | / 
+31.12.2023, 2:02:50 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"false"} 
+31.12.2023, 2:02:51 - INFO - Req was made | / 
+31.12.2023, 2:02:51 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"false"} 
+31.12.2023, 2:02:53 - INFO - Req was made | / 
+31.12.2023, 2:02:53 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"true"} 
+31.12.2023, 2:02:55 - INFO - Req was made | / 
+31.12.2023, 2:02:55 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"true"} 
+31.12.2023, 2:02:57 - INFO - Req was made | / 
+31.12.2023, 2:02:57 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"true"} 
+31.12.2023, 2:02:57 - INFO - Req was made | / 
+31.12.2023, 2:02:57 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"false"} 
+31.12.2023, 2:03:03 - INFO - Req was made | / 
+31.12.2023, 2:03:03 - DEBUG - Getting Toys | {"name":"","price":"","labels":["On wheels"],"createdAt":"","inStock":""} | {"by":"price","asc":"false"} 
+31.12.2023, 2:03:08 - INFO - Req was made | / 
+31.12.2023, 2:03:08 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
