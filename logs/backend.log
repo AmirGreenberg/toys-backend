@@ -1072,3 +1072,29 @@
 31.12.2023, 3:02:15 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
 31.12.2023, 3:02:17 - INFO - Req was made | / 
 31.12.2023, 3:02:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:03:38 - INFO - server.js loaded... 
+31.12.2023, 3:03:38 - INFO - Server is running on port: 3030 
+31.12.2023, 3:03:54 - INFO - server.js loaded... 
+31.12.2023, 3:03:54 - INFO - Server is running on port: 3030 
+31.12.2023, 3:04:19 - INFO - server.js loaded... 
+31.12.2023, 3:04:19 - INFO - Server is running on port: 3030 
+31.12.2023, 3:04:20 - INFO - Req was made | / 
+31.12.2023, 3:04:20 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:04:21 - INFO - Req was made | / 
+31.12.2023, 3:04:21 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:04:22 - INFO - Req was made | / 
+31.12.2023, 3:04:22 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:04:23 - INFO - Req was made | / 
+31.12.2023, 3:04:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:04:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:04:23 - INFO - Req was made | / 
+31.12.2023, 3:04:27 - INFO - Req was made | / 
+31.12.2023, 3:04:27 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:04:39 - INFO - Req was made | / 
+31.12.2023, 3:04:39 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:04:40 - INFO - Req was made | / 
+31.12.2023, 3:04:40 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:04:50 - INFO - Req was made | / 
+31.12.2023, 3:04:50 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:04:52 - INFO - Req was made | / 
+31.12.2023, 3:04:52 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
