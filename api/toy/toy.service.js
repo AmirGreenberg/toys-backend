@@ -65,7 +65,7 @@ async function query(filterBy = {}, sort = {}) {
         }
 
         const sortCriteria = {};
-        const dir = JSON.parse(sort.asc) ? 1 : -1;
+        const dir = sort.asc
         if (sort.by === 'price') {
             sortCriteria.price = dir;
         } else if (sort.by === 'name') {
@@ -75,6 +75,7 @@ async function query(filterBy = {}, sort = {}) {
         console.log("🚀  criteria:", criteria)
         const collection = await dbService.getCollection('toy');
         var toys = await collection.find(criteria).sort(sortCriteria).toArray();
+        // var toys = await collection.find(criteria).toArray();
         return toys;
     } catch (err) {
         logger.error('cannot find toys', err);

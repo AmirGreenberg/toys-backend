@@ -3,7 +3,20 @@ import { toyService } from './toy.service.js'
 
 export async function getToys(req, res) {
     try {
-        const { filterBy = {}, sort = {} } = req.query.params
+        const filterBy = {
+            name: req.query.name || '',
+            price: req.query.price || '',
+            labels: req.query.labels || '',
+            createdAt: req.query.createdAt || '',
+            inStock: req.query.inStock || '',
+        }
+
+        const sort = {
+            by: req.query.by || '',
+            asc: req.query.asc || 1,
+
+        }
+
         logger.debug('Getting Toys', filterBy, sort)
         const toys = await toyService.query(filterBy, sort)
         res.json(toys)

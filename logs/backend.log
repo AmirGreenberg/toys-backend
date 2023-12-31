@@ -715,3 +715,360 @@
 31.12.2023, 2:03:03 - DEBUG - Getting Toys | {"name":"","price":"","labels":["On wheels"],"createdAt":"","inStock":""} | {"by":"price","asc":"false"} 
 31.12.2023, 2:03:08 - INFO - Req was made | / 
 31.12.2023, 2:03:08 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 2:09:36 - INFO - Req was made | / 
+31.12.2023, 2:09:36 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:10:44 - INFO - Req was made | / 
+31.12.2023, 2:10:44 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:11:26 - INFO - server.js loaded... 
+31.12.2023, 2:11:26 - INFO - Server is running on port: 3030 
+31.12.2023, 2:11:28 - INFO - Req was made | / 
+31.12.2023, 2:11:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 2:11:40 - INFO - Req was made | / 
+31.12.2023, 2:11:40 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:11:48 - INFO - Req was made | / 
+31.12.2023, 2:11:48 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:15:17 - INFO - server.js loaded... 
+31.12.2023, 2:15:17 - INFO - Server is running on port: 3030 
+31.12.2023, 2:16:09 - INFO - Req was made | / 
+31.12.2023, 2:16:09 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:16:26 - INFO - server.js loaded... 
+31.12.2023, 2:16:26 - INFO - Server is running on port: 3030 
+31.12.2023, 2:17:35 - INFO - server.js loaded... 
+31.12.2023, 2:17:35 - INFO - Server is running on port: 3030 
+31.12.2023, 2:17:39 - INFO - server.js loaded... 
+31.12.2023, 2:17:39 - INFO - Server is running on port: 3030 
+31.12.2023, 2:17:44 - INFO - Req was made | / 
+31.12.2023, 2:17:44 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:18:01 - INFO - server.js loaded... 
+31.12.2023, 2:18:01 - INFO - Server is running on port: 3030 
+31.12.2023, 2:18:03 - INFO - Req was made | / 
+31.12.2023, 2:18:03 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:25:50 - INFO - server.js loaded... 
+31.12.2023, 2:25:50 - INFO - Server is running on port: 3030 
+31.12.2023, 2:25:54 - INFO - server.js loaded... 
+31.12.2023, 2:25:54 - INFO - Server is running on port: 3030 
+31.12.2023, 2:25:58 - INFO - Req was made | / 
+31.12.2023, 2:25:58 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:26:27 - INFO - Server is running on port: 3030 
+31.12.2023, 2:26:27 - INFO - server.js loaded... 
+31.12.2023, 2:26:53 - INFO - server.js loaded... 
+31.12.2023, 2:26:53 - INFO - Server is running on port: 3030 
+31.12.2023, 2:26:55 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:26:55 - INFO - Req was made | / 
+31.12.2023, 2:27:16 - INFO - server.js loaded... 
+31.12.2023, 2:27:16 - INFO - Server is running on port: 3030 
+31.12.2023, 2:27:23 - INFO - server.js loaded... 
+31.12.2023, 2:27:23 - INFO - Server is running on port: 3030 
+31.12.2023, 2:27:57 - INFO - server.js loaded... 
+31.12.2023, 2:27:57 - INFO - Server is running on port: 3030 
+31.12.2023, 2:28:00 - INFO - Req was made | / 
+31.12.2023, 2:28:00 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:28:56 - INFO - server.js loaded... 
+31.12.2023, 2:28:56 - INFO - Server is running on port: 3030 
+31.12.2023, 2:28:58 - INFO - Req was made | / 
+31.12.2023, 2:28:58 - DEBUG - Getting Toys | {} 
+31.12.2023, 2:28:58 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:28:58 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:29:13 - INFO - Req was made | / 
+31.12.2023, 2:29:13 - DEBUG - Getting Toys | {} 
+31.12.2023, 2:29:13 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:29:13 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:31:39 - INFO - server.js loaded... 
+31.12.2023, 2:31:39 - INFO - Server is running on port: 3030 
+31.12.2023, 2:31:42 - INFO - Req was made | / 
+31.12.2023, 2:31:42 - DEBUG - Getting Toys | {"txt":""} 
+31.12.2023, 2:31:42 - ERROR - Failed to get toys | ReferenceError: sort is not defined 
+31.12.2023, 2:31:58 - INFO - server.js loaded... 
+31.12.2023, 2:31:58 - INFO - Server is running on port: 3030 
+31.12.2023, 2:32:01 - INFO - Req was made | / 
+31.12.2023, 2:32:01 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:32:01 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:32:01 - DEBUG - Getting Toys | {"txt":""} 
+31.12.2023, 2:32:17 - INFO - server.js loaded... 
+31.12.2023, 2:32:17 - INFO - Server is running on port: 3030 
+31.12.2023, 2:32:20 - INFO - Req was made | / 
+31.12.2023, 2:32:20 - DEBUG - Getting Toys | {"name":""} 
+31.12.2023, 2:32:20 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:32:20 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:35:21 - INFO - server.js loaded... 
+31.12.2023, 2:35:21 - INFO - Server is running on port: 3030 
+31.12.2023, 2:35:23 - INFO - Req was made | / 
+31.12.2023, 2:35:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:35:23 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:35:23 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:36:05 - INFO - server.js loaded... 
+31.12.2023, 2:36:05 - INFO - Server is running on port: 3030 
+31.12.2023, 2:36:09 - INFO - Req was made | / 
+31.12.2023, 2:36:09 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:36:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:36:12 - INFO - Req was made | / 
+31.12.2023, 2:36:12 - INFO - Req was made | / 
+31.12.2023, 2:36:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:36:14 - INFO - Req was made | / 
+31.12.2023, 2:36:14 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:36:18 - INFO - Req was made | / 
+31.12.2023, 2:36:18 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:38:38 - INFO - server.js loaded... 
+31.12.2023, 2:38:38 - INFO - Server is running on port: 3030 
+31.12.2023, 2:38:44 - INFO - server.js loaded... 
+31.12.2023, 2:38:44 - INFO - Server is running on port: 3030 
+31.12.2023, 2:38:48 - INFO - Req was made | / 
+31.12.2023, 2:38:48 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:38:48 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:38:48 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:40:44 - INFO - server.js loaded... 
+31.12.2023, 2:40:44 - INFO - Server is running on port: 3030 
+31.12.2023, 2:40:46 - INFO - Req was made | / 
+31.12.2023, 2:40:46 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":""} 
+31.12.2023, 2:40:46 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:40:46 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:41:31 - INFO - server.js loaded... 
+31.12.2023, 2:41:31 - INFO - Server is running on port: 3030 
+31.12.2023, 2:41:34 - INFO - Req was made | / 
+31.12.2023, 2:41:34 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:41:34 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:41:34 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:41:45 - INFO - server.js loaded... 
+31.12.2023, 2:41:45 - INFO - Server is running on port: 3030 
+31.12.2023, 2:41:46 - INFO - Req was made | / 
+31.12.2023, 2:41:46 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:42:35 - INFO - server.js loaded... 
+31.12.2023, 2:42:36 - INFO - Server is running on port: 3030 
+31.12.2023, 2:42:37 - INFO - Req was made | / 
+31.12.2023, 2:42:38 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:42:38 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:42:38 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:43:43 - INFO - server.js loaded... 
+31.12.2023, 2:43:43 - INFO - Server is running on port: 3030 
+31.12.2023, 2:43:45 - INFO - Req was made | / 
+31.12.2023, 2:43:45 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:43:45 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:43:45 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:43:46 - INFO - Req was made | / 
+31.12.2023, 2:43:46 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:43:46 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:43:46 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:43:48 - INFO - Req was made | / 
+31.12.2023, 2:43:48 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:43:48 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:43:48 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:44:13 - INFO - server.js loaded... 
+31.12.2023, 2:44:13 - INFO - Server is running on port: 3030 
+31.12.2023, 2:44:14 - INFO - Req was made | / 
+31.12.2023, 2:44:14 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 2:44:18 - INFO - Req was made | / 
+31.12.2023, 2:44:18 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:44:45 - INFO - server.js loaded... 
+31.12.2023, 2:44:45 - INFO - Server is running on port: 3030 
+31.12.2023, 2:44:46 - INFO - Req was made | / 
+31.12.2023, 2:44:46 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:44:46 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} 
+31.12.2023, 2:44:46 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:45:19 - INFO - server.js loaded... 
+31.12.2023, 2:45:19 - INFO - Server is running on port: 3030 
+31.12.2023, 2:45:20 - INFO - Req was made | / 
+31.12.2023, 2:45:20 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 2:45:35 - INFO - Req was made | / 
+31.12.2023, 2:45:35 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:45:58 - INFO - Req was made | / 
+31.12.2023, 2:45:58 - ERROR - Failed to get toys | TypeError: Cannot read properties of undefined (reading 'filterBy') 
+31.12.2023, 2:46:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+31.12.2023, 2:46:12 - INFO - Req was made | / 
+31.12.2023, 2:46:49 - INFO - server.js loaded... 
+31.12.2023, 2:46:49 - INFO - Server is running on port: 3030 
+31.12.2023, 2:46:51 - INFO - Req was made | / 
+31.12.2023, 2:46:51 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":""} 
+31.12.2023, 2:46:51 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:46:51 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:48:07 - INFO - server.js loaded... 
+31.12.2023, 2:48:07 - INFO - Server is running on port: 3030 
+31.12.2023, 2:48:08 - INFO - Req was made | / 
+31.12.2023, 2:48:08 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":""} 
+31.12.2023, 2:48:11 - INFO - Req was made | / 
+31.12.2023, 2:48:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":""} 
+31.12.2023, 2:49:09 - INFO - server.js loaded... 
+31.12.2023, 2:49:09 - INFO - Server is running on port: 3030 
+31.12.2023, 2:49:10 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":""} 
+31.12.2023, 2:49:10 - INFO - Req was made | / 
+31.12.2023, 2:50:34 - INFO - server.js loaded... 
+31.12.2023, 2:50:34 - INFO - Server is running on port: 3030 
+31.12.2023, 2:50:36 - INFO - Req was made | / 
+31.12.2023, 2:50:36 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:50:36 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:50:36 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":""} 
+31.12.2023, 2:51:08 - INFO - server.js loaded... 
+31.12.2023, 2:51:08 - INFO - Server is running on port: 3030 
+31.12.2023, 2:51:10 - INFO - Req was made | / 
+31.12.2023, 2:51:10 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:51:10 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:51:10 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"1"} 
+31.12.2023, 2:51:12 - INFO - Req was made | / 
+31.12.2023, 2:51:12 - ERROR - cannot find toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:51:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"1"} 
+31.12.2023, 2:51:12 - ERROR - Failed to get toys | SyntaxError: "undefined" is not valid JSON 
+31.12.2023, 2:51:40 - INFO - server.js loaded... 
+31.12.2023, 2:51:40 - INFO - Server is running on port: 3030 
+31.12.2023, 2:51:41 - INFO - Req was made | / 
+31.12.2023, 2:51:41 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:51:45 - INFO - Req was made | / 
+31.12.2023, 2:51:45 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:51:46 - INFO - Req was made | / 
+31.12.2023, 2:51:46 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:51:47 - INFO - Req was made | / 
+31.12.2023, 2:51:47 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:51:54 - INFO - server.js loaded... 
+31.12.2023, 2:51:54 - INFO - Server is running on port: 3030 
+31.12.2023, 2:51:56 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":""} 
+31.12.2023, 2:51:56 - INFO - Req was made | / 
+31.12.2023, 2:51:56 - ERROR - cannot find toys | SyntaxError: Unexpected end of JSON input 
+31.12.2023, 2:51:56 - ERROR - Failed to get toys | SyntaxError: Unexpected end of JSON input 
+31.12.2023, 2:52:07 - INFO - server.js loaded... 
+31.12.2023, 2:52:07 - INFO - Server is running on port: 3030 
+31.12.2023, 2:52:08 - INFO - Req was made | / 
+31.12.2023, 2:52:08 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:52:10 - INFO - Req was made | / 
+31.12.2023, 2:52:10 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:52:10 - INFO - Req was made | / 
+31.12.2023, 2:52:10 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:52:12 - INFO - Req was made | / 
+31.12.2023, 2:52:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:53:10 - INFO - Req was made | / 
+31.12.2023, 2:53:10 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:53:12 - INFO - Req was made | / 
+31.12.2023, 2:53:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:53:14 - INFO - Req was made | / 
+31.12.2023, 2:53:14 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:53:14 - INFO - Req was made | / 
+31.12.2023, 2:53:14 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:53:15 - INFO - Req was made | / 
+31.12.2023, 2:53:15 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:53:32 - INFO - server.js loaded... 
+31.12.2023, 2:53:32 - INFO - Server is running on port: 3030 
+31.12.2023, 2:53:33 - INFO - Req was made | / 
+31.12.2023, 2:53:33 - ERROR - cannot find toys | SyntaxError: Unexpected token '^', "^" is not valid JSON 
+31.12.2023, 2:53:33 - ERROR - Failed to get toys | SyntaxError: Unexpected token '^', "^" is not valid JSON 
+31.12.2023, 2:53:33 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":"^"} 
+31.12.2023, 2:54:00 - INFO - server.js loaded... 
+31.12.2023, 2:54:00 - INFO - Server is running on port: 3030 
+31.12.2023, 2:54:03 - INFO - server.js loaded... 
+31.12.2023, 2:54:03 - INFO - Server is running on port: 3030 
+31.12.2023, 2:54:05 - INFO - Req was made | / 
+31.12.2023, 2:54:05 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":""} 
+31.12.2023, 2:54:05 - ERROR - cannot find toys | SyntaxError: Unexpected end of JSON input 
+31.12.2023, 2:54:05 - ERROR - Failed to get toys | SyntaxError: Unexpected end of JSON input 
+31.12.2023, 2:54:16 - INFO - server.js loaded... 
+31.12.2023, 2:54:16 - INFO - Server is running on port: 3030 
+31.12.2023, 2:54:16 - INFO - Req was made | / 
+31.12.2023, 2:54:16 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":"^"} 
+31.12.2023, 2:54:16 - ERROR - cannot find toys | SyntaxError: Unexpected token '^', "^" is not valid JSON 
+31.12.2023, 2:54:16 - ERROR - Failed to get toys | SyntaxError: Unexpected token '^', "^" is not valid JSON 
+31.12.2023, 2:54:17 - INFO - Req was made | / 
+31.12.2023, 2:54:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":"^"} 
+31.12.2023, 2:54:17 - ERROR - cannot find toys | SyntaxError: Unexpected token '^', "^" is not valid JSON 
+31.12.2023, 2:54:17 - ERROR - Failed to get toys | SyntaxError: Unexpected token '^', "^" is not valid JSON 
+31.12.2023, 2:54:47 - INFO - server.js loaded... 
+31.12.2023, 2:54:47 - INFO - Server is running on port: 3030 
+31.12.2023, 2:54:54 - INFO - server.js loaded... 
+31.12.2023, 2:54:54 - INFO - Server is running on port: 3030 
+31.12.2023, 2:54:54 - INFO - Req was made | / 
+31.12.2023, 2:54:54 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:54:56 - INFO - Req was made | / 
+31.12.2023, 2:54:56 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:55:00 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:55:00 - INFO - Req was made | / 
+31.12.2023, 2:55:35 - INFO - Req was made | / 
+31.12.2023, 2:55:35 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:56:38 - INFO - server.js loaded... 
+31.12.2023, 2:56:38 - INFO - Server is running on port: 3030 
+31.12.2023, 2:56:44 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:56:44 - INFO - Req was made | / 
+31.12.2023, 2:56:47 - INFO - Req was made | / 
+31.12.2023, 2:56:47 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:56:47 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:56:47 - INFO - Req was made | / 
+31.12.2023, 2:56:48 - INFO - Req was made | / 
+31.12.2023, 2:56:48 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:56:49 - INFO - Req was made | / 
+31.12.2023, 2:56:49 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:56:52 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:56:52 - INFO - Req was made | / 
+31.12.2023, 2:56:54 - INFO - Req was made | / 
+31.12.2023, 2:56:54 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:56:55 - INFO - Req was made | / 
+31.12.2023, 2:56:55 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:56:55 - INFO - Req was made | / 
+31.12.2023, 2:56:55 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:58:06 - INFO - server.js loaded... 
+31.12.2023, 2:58:06 - INFO - Server is running on port: 3030 
+31.12.2023, 2:58:07 - INFO - Req was made | / 
+31.12.2023, 2:58:07 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:58:09 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:58:09 - INFO - Req was made | / 
+31.12.2023, 2:58:09 - INFO - Req was made | / 
+31.12.2023, 2:58:09 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:58:11 - INFO - Req was made | / 
+31.12.2023, 2:58:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:58:16 - INFO - Req was made | / 
+31.12.2023, 2:58:16 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:58:20 - INFO - Req was made | / 
+31.12.2023, 2:58:20 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:58:23 - INFO - Req was made | / 
+31.12.2023, 2:58:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:59:06 - INFO - server.js loaded... 
+31.12.2023, 2:59:06 - INFO - Server is running on port: 3030 
+31.12.2023, 2:59:07 - INFO - Req was made | / 
+31.12.2023, 2:59:07 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:59:09 - INFO - Req was made | / 
+31.12.2023, 2:59:09 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:59:10 - INFO - Req was made | / 
+31.12.2023, 2:59:10 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:59:11 - INFO - Req was made | / 
+31.12.2023, 2:59:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:59:11 - INFO - Req was made | / 
+31.12.2023, 2:59:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:59:12 - INFO - Req was made | / 
+31.12.2023, 2:59:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:59:13 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:59:13 - INFO - Req was made | / 
+31.12.2023, 2:59:14 - INFO - Req was made | / 
+31.12.2023, 2:59:14 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 2:59:21 - INFO - Req was made | / 
+31.12.2023, 2:59:21 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:00:20 - INFO - server.js loaded... 
+31.12.2023, 3:00:20 - INFO - Server is running on port: 3030 
+31.12.2023, 3:00:22 - INFO - Req was made | / 
+31.12.2023, 3:00:22 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:00:23 - INFO - Req was made | / 
+31.12.2023, 3:00:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:00:24 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:00:24 - INFO - Req was made | / 
+31.12.2023, 3:00:24 - INFO - Req was made | / 
+31.12.2023, 3:00:24 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:00:25 - INFO - Req was made | / 
+31.12.2023, 3:00:25 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:00:26 - INFO - Req was made | / 
+31.12.2023, 3:00:26 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:01:08 - INFO - server.js loaded... 
+31.12.2023, 3:01:08 - INFO - Server is running on port: 3030 
+31.12.2023, 3:01:11 - INFO - Req was made | / 
+31.12.2023, 3:01:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:01:13 - INFO - Req was made | / 
+31.12.2023, 3:01:13 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:01:13 - INFO - Req was made | / 
+31.12.2023, 3:01:13 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:01:14 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:01:14 - INFO - Req was made | / 
+31.12.2023, 3:01:14 - INFO - Req was made | / 
+31.12.2023, 3:01:14 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:02:11 - INFO - server.js loaded... 
+31.12.2023, 3:02:11 - INFO - Server is running on port: 3030 
+31.12.2023, 3:02:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:02:12 - INFO - Req was made | / 
+31.12.2023, 3:02:14 - INFO - Req was made | / 
+31.12.2023, 3:02:14 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:02:15 - INFO - Req was made | / 
+31.12.2023, 3:02:15 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:02:15 - INFO - Req was made | / 
+31.12.2023, 3:02:15 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:02:17 - INFO - Req was made | / 
+31.12.2023, 3:02:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
