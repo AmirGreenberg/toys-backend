@@ -1374,3 +1374,25 @@
 1.1.2024, 17:54:55 - INFO - Server is running on port: 3031 
 1.1.2024, 17:55:07 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
 1.1.2024, 17:55:07 - INFO - Req was made | / 
+1.1.2024, 19:34:13 - INFO - server.js loaded... 
+1.1.2024, 19:34:13 - INFO - Server is running on port: 3031 
+1.1.2024, 19:34:20 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:34:20 - INFO - Req was made | / 
+1.1.2024, 19:34:23 - INFO - Req was made | / 
+1.1.2024, 19:34:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:34:24 - INFO - Req was made | / 
+1.1.2024, 19:34:24 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"true"} 
+1.1.2024, 19:34:25 - INFO - Req was made | / 
+1.1.2024, 19:34:25 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"false"} 
+1.1.2024, 19:34:29 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"true"} 
+1.1.2024, 19:34:29 - INFO - Req was made | / 
+1.1.2024, 19:34:51 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:34:51 - INFO - Req was made | / 
+1.1.2024, 19:34:54 - INFO - Req was made | / 
+1.1.2024, 19:34:54 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:37:53 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:37:53 - INFO - Req was made | / 
+1.1.2024, 19:37:54 - INFO - Req was made | / 
+1.1.2024, 19:37:54 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"true"} 
+1.1.2024, 19:37:55 - INFO - Req was made | / 
+1.1.2024, 19:37:55 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"false"} 
