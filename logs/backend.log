@@ -1098,3 +1098,275 @@
 31.12.2023, 3:04:50 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
 31.12.2023, 3:04:52 - INFO - Req was made | / 
 31.12.2023, 3:04:52 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":1} 
+31.12.2023, 3:07:45 - INFO - Server is running on port: 3030 
+31.12.2023, 3:07:44 - INFO - server.js loaded... 
+31.12.2023, 3:07:47 - INFO - Req was made | / 
+31.12.2023, 3:07:47 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":true} 
+31.12.2023, 3:07:48 - INFO - Req was made | / 
+31.12.2023, 3:07:48 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":true} 
+31.12.2023, 3:07:49 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":true} 
+31.12.2023, 3:07:49 - INFO - Req was made | / 
+31.12.2023, 3:07:50 - INFO - Req was made | / 
+31.12.2023, 3:07:50 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":true} 
+31.12.2023, 3:07:50 - INFO - Req was made | / 
+31.12.2023, 3:07:50 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":true} 
+31.12.2023, 3:07:51 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"","asc":true} 
+31.12.2023, 3:07:51 - INFO - Req was made | / 
+31.12.2023, 3:08:04 - INFO - server.js loaded... 
+31.12.2023, 3:08:04 - INFO - Server is running on port: 3030 
+31.12.2023, 3:08:07 - INFO - Req was made | / 
+31.12.2023, 3:08:07 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:09 - INFO - Req was made | / 
+31.12.2023, 3:08:09 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:10 - INFO - Req was made | / 
+31.12.2023, 3:08:10 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:10 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:10 - INFO - Req was made | / 
+31.12.2023, 3:08:11 - INFO - Req was made | / 
+31.12.2023, 3:08:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:12 - INFO - Req was made | / 
+31.12.2023, 3:08:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:13 - INFO - Req was made | / 
+31.12.2023, 3:08:13 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:13 - INFO - Req was made | / 
+31.12.2023, 3:08:13 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:14 - INFO - Req was made | / 
+31.12.2023, 3:08:14 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:17 - INFO - Req was made | / 
+31.12.2023, 3:08:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:18 - INFO - Req was made | / 
+31.12.2023, 3:08:18 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:19 - INFO - Req was made | / 
+31.12.2023, 3:08:19 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:20 - INFO - Req was made | / 
+31.12.2023, 3:08:20 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:21 - INFO - Req was made | / 
+31.12.2023, 3:08:21 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:24 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:24 - INFO - Req was made | / 
+31.12.2023, 3:08:26 - INFO - Req was made | / 
+31.12.2023, 3:08:26 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:28 - INFO - Req was made | / 
+31.12.2023, 3:08:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:29 - INFO - Req was made | / 
+31.12.2023, 3:08:29 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:29 - INFO - Req was made | / 
+31.12.2023, 3:08:29 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+31.12.2023, 3:08:31 - INFO - Req was made | / 
+31.12.2023, 3:08:31 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:46:06 - INFO - server.js loaded... 
+1.1.2024, 14:46:06 - INFO - Server is running on port: 3030 
+1.1.2024, 14:46:08 - INFO - server.js loaded... 
+1.1.2024, 14:46:08 - INFO - Server is running on port: 3030 
+1.1.2024, 14:46:21 - INFO - Req was made | / 
+1.1.2024, 14:46:21 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:46:23 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:46:23 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:46:23 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:46:23 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:46:55 - INFO - server.js loaded... 
+1.1.2024, 14:46:56 - INFO - Server is running on port: 3030 
+1.1.2024, 14:46:57 - INFO - Req was made | / 
+1.1.2024, 14:46:57 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:47:00 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:00 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:00 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:00 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:02 - INFO - Req was made | / 
+1.1.2024, 14:47:02 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:47:03 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:03 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:03 - ERROR - cannot find toys | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:03 - ERROR - Failed to get toys | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:10 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:11 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:11 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:11 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:11 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:13 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:14 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:14 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:14 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:14 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:16 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:17 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:17 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:17 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:17 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:17 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:17 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:18 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:18 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:18 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:18 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:18 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:18 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:18 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:18 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:19 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:20 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:20 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:20 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:20 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:22 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:23 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:23 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:23 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:23 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:25 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:26 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:26 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:26 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:26 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:28 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:29 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:29 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:29 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:29 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:30 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:31 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:31 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:31 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:31 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:34 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:35 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:35 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:35 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:35 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:36 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:37 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:37 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:37 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:37 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:41 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:42 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:42 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:42 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:42 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:42 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:43 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:43 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:43 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:43 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:45 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:46 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:46 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:46 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:46 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:47 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:48 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:48 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:48 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:48 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:50 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:51 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:51 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:51 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:51 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:54 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:55 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:55 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:55 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:55 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:58 - DEBUG - auth.service - signup with username: a, fullname: a 
+1.1.2024, 14:47:58 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:47:59 - DEBUG - auth.service - signup with username: a, fullname: a 
+1.1.2024, 14:47:59 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:59 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:59 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:59 - ERROR - Failed to signup MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:59 - ERROR - cannot insert user | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:59 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:59 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:59 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:47:59 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:00 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:48:00 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:00 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:00 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:00 - ERROR - cannot insert user | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:00 - ERROR - Failed to signup MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:01 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:01 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:01 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:01 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:03 - DEBUG - auth.service - signup with username: a, fullname: a 
+1.1.2024, 14:48:04 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:04 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:04 - ERROR - cannot insert user | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:04 - ERROR - Failed to signup MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:04 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:16 - DEBUG - auth.service - signup with username: a, fullname: a 
+1.1.2024, 14:48:17 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:17 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:17 - ERROR - cannot insert user | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:17 - ERROR - Failed to signup MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:17 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:17 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:48:18 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:18 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:18 - ERROR - while finding user a | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:18 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:23 - DEBUG - auth.service - login with username: b 
+1.1.2024, 14:48:24 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:24 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:24 - ERROR - Failed to Login MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:24 - ERROR - while finding user b | MongoServerError: bad auth : authentication failed 
+1.1.2024, 14:48:53 - INFO - server.js loaded... 
+1.1.2024, 14:48:53 - INFO - Server is running on port: 3030 
+1.1.2024, 14:48:53 - INFO - Req was made | / 
+1.1.2024, 14:48:53 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:48:54 - INFO - Req was made | / 
+1.1.2024, 14:48:54 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:48:55 - INFO - Req was made | / 
+1.1.2024, 14:48:55 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:48:56 - INFO - Req was made | / 
+1.1.2024, 14:48:56 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:49:02 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:49:03 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":0} 
+1.1.2024, 14:49:06 - INFO - Req was made | / 
+1.1.2024, 14:49:06 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:10 - INFO - Req was made | / 
+1.1.2024, 14:50:10 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:11 - INFO - Req was made | / 
+1.1.2024, 14:50:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:11 - INFO - Req was made | / 
+1.1.2024, 14:50:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:12 - INFO - Req was made | / 
+1.1.2024, 14:50:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:13 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:13 - INFO - Req was made | / 
+1.1.2024, 14:50:13 - INFO - Req was made | / 
+1.1.2024, 14:50:13 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:14 - INFO - Req was made | / 
+1.1.2024, 14:50:14 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:15 - INFO - Req was made | / 
+1.1.2024, 14:50:15 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:15 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:15 - INFO - Req was made | / 
+1.1.2024, 14:50:16 - INFO - Req was made | / 
+1.1.2024, 14:50:16 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:16 - INFO - Req was made | / 
+1.1.2024, 14:50:16 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:17 - INFO - Req was made | / 
+1.1.2024, 14:50:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:17 - INFO - Req was made | / 
+1.1.2024, 14:50:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:24 - INFO - Req was made | / 
+1.1.2024, 14:50:24 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:25 - INFO - Req was made | / 
+1.1.2024, 14:50:25 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:29 - DEBUG - auth.service - login with username: a 
+1.1.2024, 14:50:29 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":100} 
+1.1.2024, 14:50:32 - INFO - Req was made | / 
+1.1.2024, 14:50:32 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 14:50:39 - INFO - Req was made | / 
+1.1.2024, 14:50:39 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 15:23:17 - INFO - server.js loaded... 
+1.1.2024, 15:23:17 - INFO - Server is running on port: 3030 
+1.1.2024, 15:23:22 - INFO - Req was made | / 
+1.1.2024, 15:23:22 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 15:26:59 - INFO - server.js loaded... 
+1.1.2024, 15:26:59 - INFO - Server is running on port: 3030 
+1.1.2024, 15:27:18 - INFO - server.js loaded... 
+1.1.2024, 15:27:18 - INFO - Server is running on port: 3030 

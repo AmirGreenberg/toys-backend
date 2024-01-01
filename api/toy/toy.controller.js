@@ -12,8 +12,8 @@ export async function getToys(req, res) {
         }
 
         const sort = {
-            by: req.query.by || '',
-            asc: req.query.asc || 1,
+            by: req.query.by || 'name',
+            asc: req.query.asc || true,
 
         }
 
