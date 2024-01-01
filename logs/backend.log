@@ -1370,3 +1370,7 @@
 1.1.2024, 15:26:59 - INFO - Server is running on port: 3030 
 1.1.2024, 15:27:18 - INFO - server.js loaded... 
 1.1.2024, 15:27:18 - INFO - Server is running on port: 3030 
+1.1.2024, 17:54:55 - INFO - server.js loaded... 
+1.1.2024, 17:54:55 - INFO - Server is running on port: 3031 
+1.1.2024, 17:55:07 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":true} 
+1.1.2024, 17:55:07 - INFO - Req was made | / 
