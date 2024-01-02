@@ -1765,3 +1765,52 @@
 2.1.2024, 19:40:26 - INFO - Req was made | / 
 2.1.2024, 19:41:40 - INFO - server.js loaded... 
 2.1.2024, 19:41:40 - INFO - Server is running on port: 3031 
+2.1.2024, 19:42:28 - INFO - Req was made | / 
+2.1.2024, 19:42:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:43:02 - INFO - Req was made | / 
+2.1.2024, 19:43:02 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 20:03:48 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 20:03:48 - INFO - Req was made | / 
+2.1.2024, 20:06:55 - INFO - server.js loaded... 
+2.1.2024, 20:06:55 - INFO - Server is running on port: 3031 
+2.1.2024, 20:08:07 - INFO - Req was made | / 
+2.1.2024, 20:08:07 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 20:09:06 - INFO - Req was made | / 
+2.1.2024, 20:09:33 - INFO - Req was made | / 
+2.1.2024, 20:09:36 - INFO - Req was made | / 
+2.1.2024, 20:09:37 - INFO - Req was made | / 
+2.1.2024, 20:09:40 - INFO - Req was made | / 
+2.1.2024, 20:09:41 - INFO - Req was made | / 
+2.1.2024, 20:09:42 - INFO - Req was made | / 
+2.1.2024, 20:09:43 - INFO - Req was made | / 
+2.1.2024, 20:09:45 - INFO - Req was made | / 
+2.1.2024, 20:09:57 - INFO - Req was made | / 
+2.1.2024, 20:10:00 - INFO - Req was made | / 
+2.1.2024, 20:10:02 - INFO - Req was made | / 
+2.1.2024, 20:10:03 - INFO - Req was made | / 
+2.1.2024, 20:10:04 - INFO - Req was made | / 
+2.1.2024, 20:10:05 - INFO - Req was made | / 
+2.1.2024, 20:10:07 - INFO - Req was made | / 
+2.1.2024, 20:10:08 - INFO - Req was made | / 
+2.1.2024, 20:10:09 - INFO - Req was made | / 
+2.1.2024, 20:10:10 - INFO - Req was made | / 
+2.1.2024, 20:10:14 - INFO - Req was made | / 
+2.1.2024, 20:10:14 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 20:10:16 - INFO - Req was made | / 
+2.1.2024, 20:11:00 - INFO - Req was made | / 
+2.1.2024, 20:13:14 - INFO - Req was made | / 
+2.1.2024, 20:13:19 - INFO - Req was made | / 
+2.1.2024, 20:13:21 - INFO - Req was made | / 
+2.1.2024, 20:13:22 - INFO - Req was made | / 
+2.1.2024, 20:13:24 - INFO - Req was made | / 
+2.1.2024, 20:13:34 - INFO - Req was made | / 
+2.1.2024, 20:13:37 - INFO - Req was made | / 
+2.1.2024, 20:13:37 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 20:13:39 - INFO - Req was made | / 
+2.1.2024, 20:15:16 - INFO - Req was made | / 
+2.1.2024, 20:15:26 - INFO - Req was made | / 
+2.1.2024, 20:15:50 - INFO - Req was made | / 
+2.1.2024, 20:16:58 - INFO - server.js loaded... 
+2.1.2024, 20:16:58 - INFO - Server is running on port: 3031 
+2.1.2024, 20:24:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 20:24:11 - INFO - Req was made | / 
