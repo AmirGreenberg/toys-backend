@@ -12,10 +12,11 @@ export async function getUser(req, res) {
 }
 
 export async function getUsers(req, res) {
+    console.log('check get users')
     try {
         const filterBy = {
             txt: req.query?.txt || '',
-            minBalance: +req.query?.minBalance || 0
+            // minBalance: +req.query?.minBalance || 0
         }
         const users = await userService.query(filterBy)
         res.send(users)

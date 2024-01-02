@@ -1396,3 +1396,372 @@
 1.1.2024, 19:37:54 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"true"} 
 1.1.2024, 19:37:55 - INFO - Req was made | / 
 1.1.2024, 19:37:55 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"price","asc":"false"} 
+1.1.2024, 19:43:57 - INFO - Req was made | / 
+1.1.2024, 19:43:57 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:44:09 - INFO - server.js loaded... 
+1.1.2024, 19:44:09 - INFO - Server is running on port: 3031 
+1.1.2024, 19:44:09 - INFO - Req was made | / 
+1.1.2024, 19:44:09 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:44:11 - INFO - Req was made | / 
+1.1.2024, 19:44:11 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:44:17 - DEBUG - auth.service - login with username: a 
+1.1.2024, 19:44:17 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":100} 
+1.1.2024, 19:44:20 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:44:20 - INFO - Req was made | / 
+1.1.2024, 19:45:10 - DEBUG - auth.service - login with username: a 
+1.1.2024, 19:45:11 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":100} 
+1.1.2024, 19:45:40 - INFO - Req was made | / 
+1.1.2024, 19:45:40 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:45:46 - INFO - Req was made | / 
+1.1.2024, 19:45:46 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:46:02 - DEBUG - auth.service - login with username: a 
+1.1.2024, 19:46:03 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":100} 
+1.1.2024, 19:46:05 - INFO - Req was made | / 
+1.1.2024, 19:46:05 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:47:58 - INFO - Req was made | / 
+1.1.2024, 19:47:58 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:48:00 - INFO - Req was made | / 
+1.1.2024, 19:48:00 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:48:00 - INFO - Req was made | / 
+1.1.2024, 19:48:00 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:48:01 - INFO - Req was made | / 
+1.1.2024, 19:48:01 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:48:02 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:48:02 - INFO - Req was made | / 
+1.1.2024, 19:48:02 - INFO - Req was made | / 
+1.1.2024, 19:48:02 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:48:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:48:17 - INFO - Req was made | / 
+1.1.2024, 19:48:23 - DEBUG - auth.service - login with username: a 
+1.1.2024, 19:48:24 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":100} 
+1.1.2024, 19:48:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:48:28 - INFO - Req was made | / 
+1.1.2024, 19:50:06 - INFO - server.js loaded... 
+1.1.2024, 19:50:06 - INFO - Server is running on port: 3031 
+1.1.2024, 19:50:25 - DEBUG - auth.service - login with username: a 
+1.1.2024, 19:50:27 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":100} 
+1.1.2024, 19:51:18 - INFO - server.js loaded... 
+1.1.2024, 19:51:18 - INFO - Server is running on port: 3031 
+1.1.2024, 19:51:30 - DEBUG - auth.service - login with username: a 
+1.1.2024, 19:51:30 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":0,"isAdmin":true} 
+1.1.2024, 19:51:34 - INFO - Req was made | / 
+1.1.2024, 19:51:34 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:52:33 - INFO - server.js loaded... 
+1.1.2024, 19:52:33 - INFO - Server is running on port: 3031 
+1.1.2024, 19:52:35 - INFO - Req was made | / 
+1.1.2024, 19:52:35 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:52:36 - INFO - Req was made | / 
+1.1.2024, 19:52:36 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:52:36 - INFO - Req was made | / 
+1.1.2024, 19:52:36 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 19:52:46 - DEBUG - auth.service - login with username: a 
+1.1.2024, 19:52:46 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":0,"isAdmin":true} 
+1.1.2024, 19:52:49 - INFO - Req was made | / 
+1.1.2024, 19:52:49 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 20:12:09 - INFO - server.js loaded... 
+1.1.2024, 20:12:09 - INFO - Server is running on port: 3031 
+1.1.2024, 20:12:12 - INFO - Req was made | / 
+1.1.2024, 20:12:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 20:14:07 - INFO - server.js loaded... 
+1.1.2024, 20:14:07 - INFO - Server is running on port: 3031 
+1.1.2024, 20:14:08 - INFO - Req was made | / 
+1.1.2024, 20:14:08 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 20:15:39 - INFO - server.js loaded... 
+1.1.2024, 20:15:39 - INFO - Server is running on port: 3031 
+1.1.2024, 20:16:21 - INFO - Req was made | / 
+1.1.2024, 20:16:21 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 20:17:15 - INFO - server.js loaded... 
+1.1.2024, 20:17:15 - INFO - Server is running on port: 3031 
+1.1.2024, 20:17:17 - INFO - Req was made | / 
+1.1.2024, 20:17:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 20:17:19 - INFO - Req was made | / 
+1.1.2024, 20:17:19 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 20:17:25 - INFO - Req was made | / 
+1.1.2024, 20:17:25 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 20:32:31 - INFO - Req was made | / 
+1.1.2024, 20:32:31 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 20:33:01 - INFO - server.js loaded... 
+1.1.2024, 20:33:01 - INFO - Server is running on port: 3031 
+1.1.2024, 20:33:12 - INFO - Req was made | / 
+1.1.2024, 20:33:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+1.1.2024, 20:33:17 - INFO - Req was made | / 
+1.1.2024, 20:33:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 16:53:47 - INFO - Server is running on port: 3031 
+2.1.2024, 16:53:47 - INFO - server.js loaded... 
+2.1.2024, 17:01:44 - INFO - server.js loaded... 
+2.1.2024, 17:01:44 - INFO - Server is running on port: 3031 
+2.1.2024, 17:02:46 - INFO - Req was made | / 
+2.1.2024, 17:02:46 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:03:48 - DEBUG - auth.service - login with username: a 
+2.1.2024, 17:03:48 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":100} 
+2.1.2024, 17:03:51 - INFO - Req was made | / 
+2.1.2024, 17:03:51 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:03:58 - INFO - Req was made | / 
+2.1.2024, 17:03:58 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:10:34 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:10:34 - INFO - Req was made | / 
+2.1.2024, 17:10:54 - INFO - Req was made | / 
+2.1.2024, 17:10:54 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:10:57 - INFO - Req was made | / 
+2.1.2024, 17:10:57 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:12:17 - INFO - Req was made | / 
+2.1.2024, 17:12:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:12:28 - INFO - Req was made | / 
+2.1.2024, 17:12:28 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:12:33 - INFO - Req was made | / 
+2.1.2024, 17:12:33 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:12:35 - INFO - Req was made | / 
+2.1.2024, 17:12:35 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:15:29 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:15:29 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:15:40 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:15:40 - INFO - Req was made | / 
+2.1.2024, 17:15:46 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:15:46 - INFO - Req was made | / 
+2.1.2024, 17:15:47 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:15:47 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:21:33 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:21:33 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:21:38 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:21:38 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:21:42 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:21:42 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:21:46 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:21:46 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:21:55 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:21:55 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:23:01 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:23:01 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:23:03 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:23:03 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:23:04 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:23:04 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:24:31 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:24:31 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:25:32 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:25:32 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:25:48 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:25:48 - INFO - Req was made | / 
+2.1.2024, 17:25:50 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:25:50 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:29:20 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:29:20 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:29:23 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:29:23 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:29:26 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:29:26 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:29:41 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:29:41 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:29:45 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:29:45 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:33:21 - INFO - Req was made | / 
+2.1.2024, 17:33:21 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:33:25 - INFO - Req was made | / 
+2.1.2024, 17:33:25 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:33:27 - INFO - Req was made | / 
+2.1.2024, 17:33:27 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:33:29 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:33:29 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:44:50 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:44:50 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:45:13 - INFO - server.js loaded... 
+2.1.2024, 17:45:13 - INFO - Server is running on port: 3031 
+2.1.2024, 17:50:14 - INFO - server.js loaded... 
+2.1.2024, 17:50:14 - INFO - Server is running on port: 3031 
+2.1.2024, 17:50:32 - INFO - server.js loaded... 
+2.1.2024, 17:50:32 - INFO - Server is running on port: 3031 
+2.1.2024, 17:50:33 - INFO - server.js loaded... 
+2.1.2024, 17:50:33 - INFO - Server is running on port: 3031 
+2.1.2024, 17:50:35 - INFO - server.js loaded... 
+2.1.2024, 17:50:35 - INFO - Server is running on port: 3031 
+2.1.2024, 17:51:10 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:51:10 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:51:54 - INFO - server.js loaded... 
+2.1.2024, 17:51:54 - INFO - Server is running on port: 3031 
+2.1.2024, 17:52:09 - INFO - Req was made | / 
+2.1.2024, 17:52:09 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:52:15 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:52:15 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:52:18 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:52:18 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:54:47 - INFO - Req was made | / 
+2.1.2024, 17:54:47 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:54:49 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:54:49 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:54:53 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:54:53 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:55:15 - DEBUG - auth.service - login with username: a 
+2.1.2024, 17:55:15 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":100,"isAdmin":true} 
+2.1.2024, 17:55:18 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:55:18 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:55:23 - INFO - Req was made | / 
+2.1.2024, 17:55:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:55:45 - INFO - Req was made | / 
+2.1.2024, 17:55:45 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:55:49 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:55:49 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:56:19 - INFO - server.js loaded... 
+2.1.2024, 17:56:19 - INFO - Server is running on port: 3031 
+2.1.2024, 17:56:22 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:56:22 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:56:23 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:56:23 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:57:14 - INFO - server.js loaded... 
+2.1.2024, 17:57:14 - INFO - Server is running on port: 3031 
+2.1.2024, 17:57:17 - INFO - Req was made | / 
+2.1.2024, 17:57:17 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:57:20 - INFO - Req was made | / 
+2.1.2024, 17:57:20 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:57:23 - INFO - Req was made | / 
+2.1.2024, 17:57:23 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:57:26 - INFO - Req was made | / 
+2.1.2024, 17:57:26 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 17:57:29 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:57:29 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:58:19 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:58:19 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:58:21 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:58:21 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:58:23 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 17:58:23 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:52:18 - INFO - server.js loaded... 
+2.1.2024, 18:52:18 - INFO - Server is running on port: 3031 
+2.1.2024, 18:52:38 - INFO - server.js loaded... 
+2.1.2024, 18:52:38 - INFO - Server is running on port: 3031 
+2.1.2024, 18:52:43 - INFO - Req was made | / 
+2.1.2024, 18:52:45 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:52:45 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:52:54 - INFO - Req was made | / 
+2.1.2024, 18:52:55 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:52:55 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:54:57 - INFO - Req was made | / 
+2.1.2024, 18:54:57 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:54:57 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:55:00 - INFO - Req was made | / 
+2.1.2024, 18:55:00 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:55:00 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:56:06 - INFO - Req was made | / 
+2.1.2024, 18:56:06 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:56:06 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:56:12 - INFO - Req was made | / 
+2.1.2024, 18:56:12 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:56:12 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:56:57 - INFO - Req was made | / 
+2.1.2024, 18:56:57 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:56:57 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:57:00 - INFO - Req was made | / 
+2.1.2024, 18:57:01 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:57:01 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:59:48 - INFO - Req was made | / 
+2.1.2024, 18:59:48 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 18:59:48 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:00:06 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:00:06 - INFO - Req was made | / 
+2.1.2024, 19:00:09 - INFO - Req was made | / 
+2.1.2024, 19:00:09 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:00:09 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:00:24 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:00:24 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:10:04 - INFO - server.js loaded... 
+2.1.2024, 19:10:05 - INFO - Server is running on port: 3031 
+2.1.2024, 19:10:20 - INFO - Req was made | / 
+2.1.2024, 19:10:20 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:10:24 - INFO - Req was made | / 
+2.1.2024, 19:10:24 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:10:24 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:11:35 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:11:35 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:11:35 - INFO - Req was made | / 
+2.1.2024, 19:12:09 - INFO - Req was made | / 
+2.1.2024, 19:12:09 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:12:09 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:12:20 - INFO - Req was made | / 
+2.1.2024, 19:12:20 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:12:21 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:12:44 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:12:44 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:14:18 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:14:18 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:14:18 - INFO - Req was made | / 
+2.1.2024, 19:14:34 - INFO - Req was made | / 
+2.1.2024, 19:14:34 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:14:34 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:14:45 - INFO - Req was made | / 
+2.1.2024, 19:14:45 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:14:45 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:15:37 - INFO - server.js loaded... 
+2.1.2024, 19:15:37 - INFO - Server is running on port: 3031 
+2.1.2024, 19:15:38 - INFO - Req was made | / 
+2.1.2024, 19:15:41 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:15:41 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+2.1.2024, 19:16:20 - INFO - server.js loaded... 
+2.1.2024, 19:16:20 - INFO - Server is running on port: 3031 
+2.1.2024, 19:16:22 - INFO - Req was made | / 
+2.1.2024, 19:16:36 - DEBUG - auth.service - login with username: a 
+2.1.2024, 19:16:38 - INFO - User login:  | {"_id":"65909f5bd531902b00b2072e","username":"a","fullname":"a","score":100,"isAdmin":true} 
+2.1.2024, 19:16:40 - INFO - Req was made | / 
+2.1.2024, 19:16:42 - INFO - Req was made | / 
+2.1.2024, 19:18:25 - INFO - Req was made | / 
+2.1.2024, 19:18:33 - INFO - Req was made | / 
+2.1.2024, 19:18:43 - INFO - Req was made | / 
+2.1.2024, 19:18:50 - INFO - Req was made | / 
+2.1.2024, 19:18:50 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:19:08 - INFO - Req was made | / 
+2.1.2024, 19:20:40 - INFO - Req was made | / 
+2.1.2024, 19:20:40 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:23:55 - INFO - server.js loaded... 
+2.1.2024, 19:23:55 - INFO - Server is running on port: 3031 
+2.1.2024, 19:24:18 - INFO - Req was made | / 
+2.1.2024, 19:24:18 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:24:21 - INFO - Req was made | / 
+2.1.2024, 19:24:25 - INFO - Req was made | / 
+2.1.2024, 19:24:27 - INFO - Req was made | / 
+2.1.2024, 19:24:28 - INFO - Req was made | / 
+2.1.2024, 19:24:35 - INFO - Req was made | / 
+2.1.2024, 19:24:35 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:28:12 - INFO - Req was made | / 
+2.1.2024, 19:28:12 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:29:15 - INFO - Req was made | / 
+2.1.2024, 19:29:39 - INFO - Req was made | / 
+2.1.2024, 19:32:26 - INFO - Req was made | / 
+2.1.2024, 19:32:29 - INFO - Req was made | / 
+2.1.2024, 19:32:36 - INFO - Req was made | / 
+2.1.2024, 19:32:42 - INFO - Req was made | / 
+2.1.2024, 19:32:45 - INFO - Req was made | / 
+2.1.2024, 19:32:46 - INFO - Req was made | / 
+2.1.2024, 19:32:56 - INFO - Req was made | / 
+2.1.2024, 19:32:56 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:32:58 - INFO - Req was made | / 
+2.1.2024, 19:35:16 - INFO - Req was made | / 
+2.1.2024, 19:35:51 - INFO - Req was made | / 
+2.1.2024, 19:35:51 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:36:29 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:36:29 - INFO - Req was made | / 
+2.1.2024, 19:36:32 - INFO - Req was made | / 
+2.1.2024, 19:36:35 - INFO - Req was made | / 
+2.1.2024, 19:36:35 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:36:43 - INFO - Req was made | / 
+2.1.2024, 19:38:11 - INFO - Req was made | / 
+2.1.2024, 19:38:41 - INFO - Req was made | / 
+2.1.2024, 19:38:45 - INFO - Req was made | / 
+2.1.2024, 19:38:54 - INFO - Req was made | / 
+2.1.2024, 19:38:54 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:38:58 - INFO - Req was made | / 
+2.1.2024, 19:38:58 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:39:03 - INFO - Req was made | / 
+2.1.2024, 19:39:08 - INFO - Req was made | / 
+2.1.2024, 19:39:08 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:39:26 - INFO - Req was made | / 
+2.1.2024, 19:40:02 - INFO - Req was made | / 
+2.1.2024, 19:40:02 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:40:10 - INFO - Req was made | / 
+2.1.2024, 19:40:16 - INFO - Req was made | / 
+2.1.2024, 19:40:19 - INFO - Req was made | / 
+2.1.2024, 19:40:19 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:40:20 - INFO - Req was made | / 
+2.1.2024, 19:40:20 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:40:25 - INFO - Req was made | / 
+2.1.2024, 19:40:25 - DEBUG - Getting Toys | {"name":"","price":"","labels":"","createdAt":"","inStock":""} | {"by":"name","asc":"true"} 
+2.1.2024, 19:40:26 - INFO - Req was made | / 
+2.1.2024, 19:41:40 - INFO - server.js loaded... 
+2.1.2024, 19:41:40 - INFO - Server is running on port: 3031 
